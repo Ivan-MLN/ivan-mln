@@ -5,7 +5,7 @@
 ## Hallo, I Am Fadhil Graphy 🙋
 ### About Me :
 - Saya adalah seorang pelajar
-- Umur saya 16 tahun
+- Umur saya 17 tahun
 - I am a developer
 
 <p align="center">
