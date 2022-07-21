@@ -6,7 +6,10 @@
 ### About Me :
 - Saya adalah seorang pelajar
 - Umur saya 17 tahun
-- I am a developer
+
+### Destination
+- Ingin bisa menguasai bahasa pemrograman
+- memilki 
 
 <p align="center">
   <img alig src="./code.gif" />
