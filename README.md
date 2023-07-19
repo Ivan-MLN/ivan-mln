@@ -3,17 +3,15 @@
   <a href="https://instagram.com/onlyyvann__" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
-
-  
   <a href="https://wa.me/message/VVTKNIQOH4XVO1" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Whatsapp"/>
   </a>
 </p><hr>
 
  <h2 align="left">A little about me :</h2>
- <h4>- I am 17 years old.<br>
-- I took the multimedia expertise program in high school.<br>
-- I come from Klaten, Central Java.<br>
+ <h4>- I am 15 years old.<br>
+- I took the PPLG expertise program in vocational high schools.<br>
+- I come from Salatiga, Central Java.<br>
 - This is part of my portfolio.
 </h4><hr>
  
