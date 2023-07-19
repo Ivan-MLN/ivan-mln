@@ -1,21 +1,7 @@
-<p align="center">
-<a href="https://youtube.com/c/FadhilGraphy"><img align="center" src="https://github-cardname.caliph.my.id/api?name=Fadhil+Graphy&description=Hello,%20I%20am%20Fadhil%20I%20am%20beginner%20in%20programming,%20please%20your%20guidance&image=https://avatars.githubusercontent.com/u/83855955?v=4&backgroundColor=%23ecf0f1&instagram=@fdhlgrphy&github=fdhlgrphy&pattern=ticTacToe&colorPattern=%23eaeaea&site=youtube.com/FadhilGraphy"/></a>
-</p>
-
- 
  <h3 align="left">Connect with me :</h3>
  <p align="center">
-  <a href="https://twitter.com/nurfdhl&" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
-  </a>
-  <a href="https://fadhilgraphy.blogspot.com" target="_blank">
-    <img src="https://img.shields.io/badge/blogspot-%230077B5.svg?&style=for-the-badge&logo=bloggger&logoColor=white&color=071A2C" alt="Blogger"/>
-  </a>
-  <a href="https://instagram.com/fdhlgrphy" target="_blank">
+  <a href="https://instagram.com/onlyyvann__" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
-  </a>
-  <a href="https://youtube.com/FadhilGraphy" target="_blank">
-    <img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=071A2C" alt="YouTube"/>
   </a>
 </p><hr>
 
