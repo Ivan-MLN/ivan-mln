@@ -3,6 +3,9 @@
   <a href="https://instagram.com/onlyyvann__" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
+  <a href="https://wa.me/6282138588935" target="_blank">
+    <img src="https://img.shields.io/badge/whatsapp-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Whatsapp"/>
+  </a>
 </p><hr>
 
  <h2 align="left">A little about me :</h2>
