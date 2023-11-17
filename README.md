@@ -25,8 +25,3 @@
 </p>
 
 
-<h3 align="left">Listening Music</h3>
-<p align="center">
-  <a href="https://open.spotify.com/playlist/2spfVplB0EPmwN4WWvSH14?si=QMTZNn2wQXC-hbqfVepDRA" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
-</p>
-
