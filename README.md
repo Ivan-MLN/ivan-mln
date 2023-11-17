@@ -9,7 +9,7 @@
 </p><hr>
 
  <h2 align="left">A little about me :</h2>
- <h4>- I am 15 years old.<br>
+ <h4>- I am 16 years old.<br>
 - I took the PPLG expertise program in vocational high schools.<br>
 - I come from Salatiga, Central Java.<br>
 - This is part of my portfolio.
