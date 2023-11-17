@@ -20,15 +20,10 @@
 </p>
 
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ivan-mln&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true&icon_color=fff&hide_border=false&show_icons=falze" /></a>
-</p> 
 
-<!--
 <p align="left">
-  <a href="https://github.com/fdhlgrphy"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fdhlgrphy&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&hide_title=false&show_icons=true&layout=compact&langs_count=10" /></a>
+  <a href="https://github.com/ivan-mln"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fdhlgrphy&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&hide_title=false&show_icons=true&layout=compact&langs_count=10" /></a>
 </p>
--->
 
 <p align="left">
 <a href="//github.com/ivan-mln"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-mln"></a>
